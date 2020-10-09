@@ -52,3 +52,5 @@ Essas são algumas das tecnologias e ferramentas nas quais tenho trabalhado:
 </span>
 
 Powered by [@anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+
+[![HitCount](http://hits.dwyl.com/renebentes/renebentes.svg)](http://hits.dwyl.com/renebentes/renebentes)
