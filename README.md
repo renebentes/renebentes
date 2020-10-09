@@ -1,21 +1,25 @@
 ### Olá 👋
 
-Sou Rene Bentes, casado e pai de 3 crianças incríveis, desenvolvedor web 🌐 com foco voltado para o backend.
+🔭 Meu nome é Rene Bentes Pinto. Desde 2004, quando obtive minha graduação, dedico meus esforços ao desenvolvimento de software, tendo como o **Desenvolvimento Web** 🌐 (focado no backend) a minha paixão.
 
-Em 2012, tornei-me Servidor Público Federal e, desde então, estou lotado no 8º Batalhão de Engenharia de Construção (8º BEC) em Santarém-PA atuando como Analista de Sistemas.
+Em 2012, quando me tornei Servidor Público Federal, passei a atuar como Analista de Sistemas e, desde então, estou lotado no 8º Batalhão de Engenharia de Construção (8º BEC) em Santarém-PA.
+
+🌱 Ultimamente tenho me divertido com [@Xamarin/Xamarin.Forms](xamarin/Xamarin.Forms).
+
+### 📫 Onde me encontrar?
 
 [![Twitter: renebentes](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/renebentes)](https://twitter.com/renebentes)
 [![Linkedin: renebentes](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renebentes/)](https://www.linkedin.com/in/renebentes/)
 [![Facebook: renebpinto](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/renebpinto)](https://www.facebook.com/renebpinto)
 
-### Tecnologias ⚡
+### ⚡ Tecnologias
 
 Essas são algumas das tecnologias e ferramentas nas quais tenho trabalhado:
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
 ![.Net](https://img.shields.io/badge/-.Net-5C2D91?style=flat-square&logo=.net)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Joomla](https://img.shields.io/badge/-Joomla-5091CD?style=flat-square&logo=joomla)
+![Joomla](https://img.shields.io/badge/-Joomla-5091CD?style=flat-square&logo=joomla&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -32,7 +36,15 @@ Essas são algumas das tecnologias e ferramentas nas quais tenho trabalhado:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-### Estatísticas 📊
+### Sobre Mim 😜
+
+- Casado há mais de 10 anos 👫
+- Pai de três crianças incríveis 👧👦👶
+- Não me considero gamer mas gosto de jogar 🕹
+- Geek 🤓
+- Prefiro linguagens fortemente tipadas e dentre elas C#
+
+### 📊 Estatísticas
 
 <span>
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=renebentes&show_icons=true" />
