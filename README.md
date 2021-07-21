@@ -1,4 +1,6 @@
-### Olá 👋
+# Olá 👋
+
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=renebentes.repoName)
 
 🔭 Meu nome é Rene Bentes Pinto. Desde 2004, quando obtive minha graduação, dedico meus esforços ao desenvolvimento de software, tendo como o **Desenvolvimento Web** 🌐 (focado no backend) a minha paixão.
 
@@ -6,13 +8,14 @@ Em 2012, quando me tornei Servidor Público Federal, passei a atuar como Analist
 
 🌱 Ultimamente tenho me divertido com [@Xamarin/Xamarin.Forms](xamarin/Xamarin.Forms).
 
-### 📫 Onde me encontrar?
+😄 Pronomes: Ele/Dele
+
+## 📫 Onde me encontrar?
 
 [![Twitter: renebentes](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/renebentes)](https://twitter.com/renebentes)
 [![Linkedin: renebentes](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renebentes/)](https://www.linkedin.com/in/renebentes/)
-[![Facebook: renebpinto](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/renebpinto)](https://www.facebook.com/renebpinto)
 
-### ⚡ Tecnologias
+## ⚡ Tecnologias
 
 Essas são algumas das tecnologias e ferramentas nas quais tenho trabalhado:
 
@@ -25,8 +28,8 @@ Essas são algumas das tecnologias e ferramentas nas quais tenho trabalhado:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -36,21 +39,15 @@ Essas são algumas das tecnologias e ferramentas nas quais tenho trabalhado:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-### Sobre Mim 😜
+## Sobre Mim 😜
 
 - Casado há mais de 10 anos 👫
 - Pai de três crianças incríveis 👧👦👶
 - Não me considero gamer mas gosto de jogar 🕹
 - Geek 🤓
-- Prefiro linguagens fortemente tipadas e dentre elas C#
+- Prefiro linguagens fortemente tipadas
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
-<span>
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=renebentes&show_icons=true" />
-<img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=renebentes&layout=compact" />
-</span>
-
-Powered by [@anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-
-[![HitCount](http://hits.dwyl.com/renebentes/renebentes.svg)](http://hits.dwyl.com/renebentes/renebentes)
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=renebentes&show_icons=true" width="250" />
+<img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=renebentes&layout=compact" width="250"/>
