@@ -4,9 +4,9 @@
 
 🔭 Meu nome é Rene Bentes Pinto. Desde 2004, quando obtive minha graduação, dedico meus esforços ao desenvolvimento de software, tendo o **Desenvolvimento Web** 🌐 com foco no backend a minha principal atividade.
 
-Em 2012, quando me tornei Servidor Público Federal, passei a atuar como Analista de Sistemas e, desde então, estou lotado no 8º Batalhão de Engenharia de Construção (8º BEC) em Santarém-PA.
+Em 2012, ao tornar-me Servidor Público Federal, passei a atuar como Analista de Sistemas e, desde então, estou lotado no 8º Batalhão de Engenharia de Construção (8º BEC) em Santarém-PA.
 
-🌱 Ultimamente tenho me divertido com [@Xamarin/Xamarin.Forms](xamarin/Xamarin.Forms).
+🌱 Ultimamente tenho me divertido com [@Xamarin/Xamarin.Forms](xamarin/Xamarin.Forms) e [.NET MAUI](https://dotnet.microsoft.com/en-us/apps/maui).
 
 😄 Pronomes: Ele/Dele
 
@@ -17,7 +17,7 @@ Em 2012, quando me tornei Servidor Público Federal, passei a atuar como Analist
 
 ## ⚡ Tecnologias
 
-Essas são algumas das tecnologias e ferramentas nas quais tenho trabalhado:
+Essas são algumas das tecnologias e ferramentas com as quais trabalho:
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
 ![.Net](https://img.shields.io/badge/-.Net-5C2D91?style=flat-square&logo=.net)
