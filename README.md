@@ -20,7 +20,7 @@ Em 2012, ao tornar-me Servidor Público Federal, passei a atuar como Analista de
 Essas são algumas das tecnologias e ferramentas com as quais trabalho:
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
-![.Net](https://img.shields.io/badge/-.Net-5C2D91?style=flat-square&logo=.net)
+![.NET](https://img.shields.io/badge/-.Net-5C2D91?style=flat-square&logo=.net)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Joomla](https://img.shields.io/badge/-Joomla-5091CD?style=flat-square&logo=joomla&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
