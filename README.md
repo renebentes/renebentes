@@ -1,7 +1,5 @@
 # renebentes - Rene Bentes Pinto
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=renebentes.repoName)
-
 Olá 👋
 
 🔭 Meu nome é Rene Bentes Pinto. Desde 2004, quando obtive minha graduação, dedico meus esforços ao desenvolvimento de software, tendo o **Desenvolvimento Web** 🌐 com foco no backend a minha principal atividade.
