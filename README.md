@@ -8,7 +8,10 @@ Olá 👋
 
 Em 2012, ao tornar-me Servidor Público Federal, passei a atuar como Analista de Sistemas e, desde então, estou lotado no 8º Batalhão de Engenharia de Construção (8º BEC) em Santarém-PA.
 
-🌱 Ultimamente tenho me divertido com [@Xamarin/Xamarin.Forms](xamarin/Xamarin.Forms) e [.NET MAUI](https://dotnet.microsoft.com/en-us/apps/maui).
+🌱 Ultimamente tenho me divertido com [ASP.NET Blazor][blazor] e [.NET MAUI][maui].
+
+[blazor]: https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor
+[maui]: https://dotnet.microsoft.com/en-us/apps/maui
 
 😄 Pronomes: Ele/Dele
 
