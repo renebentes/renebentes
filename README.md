@@ -52,6 +52,8 @@ Essas são algumas das tecnologias e ferramentas com as quais trabalho:
 
 ## 📊 Estatísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renebentes&layout=compact&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renebentes&layout=compact&theme=transparent)][profile]
 
-![Rene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=renebentes&theme=transparent&show_icons=true&include_all_commits=true&count_private=true)
+[![Rene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=renebentes&theme=transparent&show_icons=true&include_all_commits=true&count_private=true)][profile]
+
+[profile]: https://github.com/renebentes
