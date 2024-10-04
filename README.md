@@ -56,4 +56,7 @@ Essas são algumas das tecnologias e ferramentas com as quais trabalho:
 
 [![Rene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=renebentes&theme=transparent&show_icons=true&include_all_commits=true&count_private=true)][profile]
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=renebentes&theme=transparent)]
+[profile]
+
 [profile]: https://github.com/renebentes
