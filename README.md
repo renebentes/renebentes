@@ -15,7 +15,6 @@ Em 2012, ao tornar-me Servidor Público Federal, passei a atuar como Analista de
 
 ## 📫 Onde me encontrar?
 
-[![X: renebentes](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white&link=https://x.com/renebentes)](https://x.com/renebentes)
 [![Linkedin: renebentes](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renebentes/)](https://www.linkedin.com/in/renebentes/)
 
 ## ⚡ Tecnologias
