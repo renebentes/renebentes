@@ -23,6 +23,7 @@ Essas são algumas das tecnologias e ferramentas com as quais trabalho:
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net)
 ![C#](https://img.shields.io/badge/C%23-953CAD?style=for-the-badge&logo=cs)
+![ASP.NET Blazor](https://img.shields.io/badge/Blazor-black?style=for-the-badge&logo=blazor&logoColor=512BD4)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Joomla!](https://img.shields.io/badge/Joomla!-5091CD?style=for-the-badge&logo=joomla&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
@@ -40,6 +41,7 @@ Essas são algumas das tecnologias e ferramentas com as quais trabalho:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Code-007ACC?style=for-the-badge&logo=code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ## Sobre Mim 😜
 
